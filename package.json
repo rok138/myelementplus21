@@ -11,6 +11,7 @@
     "assert": "^2.0.0",
     "core-js": "^3.6.5",
     "dexie": "^3.0.3",
+    "dexie-export-import": "^1.0.0",
     "element-plus": "^1.0.2-beta.30",
     "moment": "^2.29.1",
     "vue": "^3.0.0",
