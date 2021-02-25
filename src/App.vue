@@ -49,7 +49,7 @@ export default {
 	width: 100%;
 	/* background-color: green; */
 	
-	font-family: SourceHanSansCN-Regular-2, impact, Helvetica, Arial, sans-serif;
+	font-family:  Helvetica, Arial, sans-serif, SourceHanSansCN-Regular-2, impact;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	/* text-align: center; */	
