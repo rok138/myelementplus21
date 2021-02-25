@@ -1,5 +1,5 @@
 <template>
-	<video id="myVideoElement" src="http://localhost:65411/a.webm" controlsList="nodownload" controls  width=320 height=240 />
+	<video id="myVideoElement" src="http://localhost:65411/a.mp4" controlsList="nodownload" controls  width=320 height=240 />
 	<!-- <video id="myVideoElement2" src="http://localhost:65411/a.mp4" controls autoplay width=320 height=240/> -->
 	<!-- <audio id="myaudio" src="http://localhost:50117/a.mp3" controls  width=320 height=240/> -->
 	
