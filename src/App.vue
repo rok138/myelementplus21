@@ -42,7 +42,7 @@ export default {
 </script>
 
 <style scoped>
-@import url("./assets/fonts/fonts.css");
+/* @import url("./assets/fonts/fonts.css"); */
 #app {
 	position: absolute;
 	height: 100%;
