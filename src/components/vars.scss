@@ -1,0 +1,8 @@
+//这里定义变量
+$menuBg:#304156;
+$menuHover:#263445;
+//这里将变量导出
+:export {
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+}
